@@ -1,0 +1,1 @@
+Forget the weatherman - this site(Very simple and minimalistic) is your new personal forecaster. It'll have you predicting the weather with the accuracy of a fortune teller on a good day. Never leave home without checking it, unless you're into the whole 'surprise rain shower' look
